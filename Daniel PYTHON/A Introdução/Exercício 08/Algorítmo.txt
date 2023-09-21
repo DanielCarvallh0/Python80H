@@ -1,0 +1,9 @@
+
+
+Programa que converte real para dólar.
+
+1. Solicitar ao usuário o valor da cotação.
+2. Solicitar ao usuário a quantidade de reais que ele quer converter.
+3. Fazer a conversão dos reais para dólar.
+4. Exibir o resultado da conversão ao usuário.
+

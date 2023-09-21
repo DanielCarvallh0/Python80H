@@ -1,0 +1,7 @@
+
+
+Programa que calcula os graus celsius e converte para Faherenheit.
+
+1. Solicitar a entrada do valor em graus Celcius.
+2. Calcular a conversão de graus Celsius para Faherenheit.
+3. Exibir o resultado da conversão.

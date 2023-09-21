@@ -1,0 +1,12 @@
+
+
+Programa que cálcula e apresenta o valor do volume de uma late de oleo com base na fórmula.
+
+1. Solicitar a entrada de dados do valor R.
+2. Solicitar a entrada de dados do valor ALTURA.
+3. Cálcular utilizando a fórmula de volume.
+4. Exibir o resultado do cálculo.
+
+
+
+** = potencia

@@ -1,0 +1,11 @@
+
+
+Programa que recebe o nome do aluno recebe as notas e calcula a media dele.
+
+
+1.	Primeiro obtenha o nome do aluno e armazene.
+2.	Obtenha as 4 notas dele e armazene.
+3.	Obtenha a média dele e armazene.
+4.	Exiba os dados.
+
+

@@ -1,0 +1,8 @@
+
+Programa que cálcula dois números em quatro operações diferentes.
+
+1. Solicitar o primeiro número. - A
+2. Solicitar o segundo número. - B
+3. Realizar o cálculo deles em adição, subtração, multiplicação e divisão.
+4. Exibir o resultado dos cálculos.
+

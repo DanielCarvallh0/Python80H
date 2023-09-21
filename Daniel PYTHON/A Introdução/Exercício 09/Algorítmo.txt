@@ -1,0 +1,9 @@
+
+Programa que apresenta o valor do novo sálario de um trabalhador com base no reajuste.
+
+1. Entrar com o salário atual. - (variável SM)
+2. Entrar com o percentual do reajuste. - (variável PR) 
+3. Realizar o cálculo do sálario ajustado. - (variável NS)
+5. Exibir o cálculo ao cliente.
+
+

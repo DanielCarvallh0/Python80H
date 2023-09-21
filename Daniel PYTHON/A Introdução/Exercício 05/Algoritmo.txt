@@ -1,0 +1,8 @@
+
+Programa que efetua o cálculo do valor de uma prestação em atraso.
+
+1. Entrar com o dado de VALOR.
+2. Entrar com o valor de TAXA.
+3. Entrar com o valor TEMPO.
+4. calcular a PRESTAÇÃO = VALOR + ( VALOR * ( TAXA / 100 ) * TEMPO )
+5. Exibir o resultado do cálculo para o cliente.

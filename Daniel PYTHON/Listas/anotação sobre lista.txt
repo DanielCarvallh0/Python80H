@@ -1,0 +1,8 @@
+tudo sobre lista só pesquisar em : list documentation python
+lista tem varios modulos que estao no site a aplicação deles.
+
+lista = [] aceita todo o tipo de dados números, textos e boolean
+
+usada para agrupar diversas 'variaveis' em uma variavel so e com os modulos acessar cada elemento.
+
+

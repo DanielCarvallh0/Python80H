@@ -1,0 +1,10 @@
+
+Programa que efetua o cálculo da quantidade de combustível que gasta em uma viagem.
+
+1. Solicitar ao usuário o tempo gasto.
+2. Solicitar ao usuário a velocidade média percorrida.
+3. Realizar o calculo para obter a DISTÂNCIA = TEMPO * VELOCIDADE.
+4. Realizar o cálculo dos LITROS_USADOS = DISTÂNCIA / 12.
+5. Exibir a velocidade média, o tempo gasto, a distância e a quantidade de litros usados.
+
+

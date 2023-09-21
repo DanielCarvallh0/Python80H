@@ -1,0 +1,38 @@
+
+
+estrutura condicional = if, elif, else
+
+sintaxe = if , variavel , operadores de comparação , variavel , entao:
+if = se ou seja realiza uma pergunta e se for verdadeiro executa o bloco de codigo abaixo dele.
+else = senao ou seja se precisar usar ele será somente executado se a pergunta do if for falsa.
+elif = else if ou seja da pra perguntar na mesma linha que o else reduzindo o codigo. 
+
+operadores de comparação:
+
+== igualdade
+< menor
+> maior
+>= maior ou igual
+<= menor ou igual
+!= diferente ou igual
+
+operadores lógicos:
+
+e = and
+ou = or
+negação = not
+
+exemplo:
+
+perg1   perg2  opLogica   saída
+ 
+ V        V        AND      V
+ V        F        AND      F
+ F        V        AND      F
+ F        F        AND      F
+
+ V        V        OR       V
+ V        F        OR       V
+ F        V        OR       V
+ F        F        OR       F
+

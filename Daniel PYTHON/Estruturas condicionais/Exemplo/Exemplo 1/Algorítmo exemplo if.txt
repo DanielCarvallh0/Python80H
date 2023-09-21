@@ -1,0 +1,9 @@
+
+Algorítmo
+
+1. Solicitar a entrada do nome do aluno.
+2. Solicitar a entrada de 4 notas do aluno.
+3. Cálcular a média do aluno.
+4. Se a média for maior ou igual que 7, mostrar aluno aprovado.
+5. Caso a média não for maior que 7, mostrar aluno reprovado.
+6. Exibir a média e o status do aluno.

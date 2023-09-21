@@ -1,0 +1,9 @@
+
+Programa que leia valores númericos inteiros e exibir o resultado depois de fazer a adição e a multiplicação.
+
+
+1. Primeiro entrar com os valores de a, b, c e d.
+2. Realizar o cálculo de adição com os valores.
+3. Realizar o cálculo de multiplicação com os valores.
+4. Exibir os resultados de todos os cálculos.
+
